@@ -2,8 +2,7 @@
 
 
 ## Description
-
-
+I want to build a text editor that runs in the browser.  This app will be a single-page application that meets PWA criteria.  It will also feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser.  This will also be able to function offline.
 
 ## Table of Contents
 - [Description](#description)
