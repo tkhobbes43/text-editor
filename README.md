@@ -9,7 +9,6 @@ I want to build a text editor that runs in the browser.  This app will be a sing
 - [User Story](#user-story)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## User Story
@@ -51,13 +50,12 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Installation
-
+To install, user simply has to clone this repository, and then run `npm install` on command line which will install all necessary dependencies against the package.json file.
 
 ## Usage
+To use this app, simply click on the Heroku button below and you are good to go. For offline use, after going to the Heroku button taking you to deployed page, simply hit the install button to download it as a desktop application.
 
-
-## Tests
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://rocky-brushlands-15740.herokuapp.com/)
 
 ## Questions
 For any questions or concerns, contact me at either my [GitHub](https://github.com/tkhobbes43)
